@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main1 {
+    height: 550px;
+    width: 100%;
+}
+
+#logobar {
+    margin-top: 60px;
+    width: 55%;
+    background-color: white;
+}
+
+.logo {
+    display: flex;
+    width: 600px;
+    margin-left: 90px;
+}
+
+.login {
+    margin-left: 210px;
+    text-decoration: none;
+    font-size: larger;
+    width: 200px;
+    margin-left: 235px;
+}
+
+.bt1 {
+    color: white;
+    background-color: black;
+    height: 40px;
+    width: 100px;
+    font-size: small;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.text {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+.textbar {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+button {
+    height: 58px;
+    width: 120px;
+    background-color: rgb(252, 128, 25);
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input {
+
+    padding-left: 20px;
+    height: 50px;
+}
+
+input:focus {
+    outline: none;
+}
+
+.city {
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+.black {
+    color: rgb(34, 33, 33);
+    font-size: medium;
+}
+
+.grey {
+    color: rgb(99, 94, 94);
+    font-size: medium;
+}
+
+.float-img img {
+    width: 100%;
+    margin-left: 15px;
+    margin-bottom: 0;
+    height: 550px;
+}
+
+.special0 {
+    background-color: rgb(43, 30, 22);
+    color: white;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.p {
+    font-size: large;
+    color: rgb(152, 132, 112);
+}
+
+#down {
+    display: flex;
+    justify-content: space-between;
+    height: 560px;
+}
+
+#restaurant {
+    width: 350px;
+    margin-left: 100px;
+}
+
+.pocket {
+    font-size: 50px;
+    margin-top: 150px;
+}
+
+.pocket1 {
+    font-size: 18px;
+    color: rgb(55, 55, 51);
+}
+
+.clickpiks {
+    margin-top: 50px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    width: 170px;
+    height: 60px;
+}
+
+#bottom {
+    margin-left: 100px;
+}
+
+.set {
+
+    height: 560px;
+    width: 400px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    height: 300px;
+    border-bottom: solid white 2px;
+}
+
+.gap {
+    margin-top: 15px;
+}
